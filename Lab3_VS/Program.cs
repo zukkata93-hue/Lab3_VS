@@ -11,6 +11,7 @@ namespace Lab3_VS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from Visual Studio");
+            Console.WriteLine("Feature branch change");
         }
     }
 }
